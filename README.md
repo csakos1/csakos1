@@ -6,4 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,nestjs,prisma,postgres,ts,cs,dotnet,androidstudio,git,github,vscode,linux,docker,java,bash&perline=8)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csakos1&show_icons=true&locale=en&layout=compact" alt="csakos1" /></p>
+<p align="left">
+  <a href="https://github.com/csakos1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csakos1&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
